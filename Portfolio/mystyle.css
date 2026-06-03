@@ -1,0 +1,83 @@
+h1{
+    column-span: all;
+    text-align: center;
+    font-size: 75px;
+    background-color: rgb(34, 108, 151); border-radius: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.carrot{
+font-size: 75px;
+text-align: center;
+background-color: rgb(34, 108, 151); border-radius: 100px;
+font-family: monospace;
+}
+.onion{
+font-size: 30px;
+transform: translate(230px, 0px);
+}
+.puzzle{
+    font-size: 30px;
+    text-align: center;
+transform: translate(50px, -6px);
+}
+.puzzle2{
+    text-align: center;
+transform: translate(50px, -55px);
+font-size: 30px;
+}
+.about{
+    font-size: 25px;
+    outline-style: double; width: 1500px;
+}
+.stuff{
+    text-align: left;
+    outline-style: solid; width: 1200px;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: red
+}
+a:active{
+    color: red
+}
+body{
+    background-color: rgb(47, 147, 204);
+}
+.block{
+    font-size: 25px;
+    transform: translate(50px, 60px);
+}
+.block2{
+    transform: translate(100px,0px);
+}
+.boi{
+    size: 1px;
+}
+image.BBA{
+    position: absolute;
+}
+.next{
+    text-align: right;
+    font-size: 30px;
+    transform: translate(-300px, -500px);
+}
+.next2{
+    text-align: right;
+    font-size: 20px;
+    transform: translate(-270px, -500px);
+}
+.art{
+    text-align: left;
+    font-size: 80px;
+}
+.DD{
+    transform: translate(200px, 170px);
+}
+.DD2{
+    transform: translate(130px, 20px);
+}
+.Cookie{
+    transform: translate(940px, 50px);
+}
